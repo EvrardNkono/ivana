@@ -64,3 +64,7 @@ export default function Home() {
             Je te recontacterai autrement après cela — après le moindre signe que tu voudras bien m’envoyer.
           </p>
         </div>
+      </div>
+    </div>
+  )
+}
